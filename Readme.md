@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - <img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic Claude logo" width="20" height="20"> Anthropic for Claude models and APIs
 - <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini logo" width="20" height="20"> Google for Gemini AI capabilities
 - <img src="https://cdn.simpleicons.org/meta" alt="Meta logo" width="20" height="20"> Meta for Llama model family
-- <img src="https://camo.githubusercontent.com/c4cb66271fe326cd8e9449a6f5da07e581425a3be88fcfb6c3722a7dea73df88/68747470733a2f2f6d6f7469612e6465762f69636f6e2e706e67" alt="Motia logo" width="20" height="20"> Motia for AI Agents and Backend Automation
+- <img src="https://github.com/MotiaDev/motia/blob/main/assets/ICON/FLAT%20BLUE%20M_MOTIA.png" alt="Motia logo" width="20" height="20"> Motia for AI Agents and Backend Automation
 - <img src="https://cdn.simpleicons.org/langchain" alt="LangChain logo" width="20" height="20"> LangChain for agent frameworks
 - <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" alt="CrewAI logo" width="20" height="20"> CrewAI for multi-agent orchestration
 - <img src="https://avatars.githubusercontent.com/u/104874993?s=48&v=4" alt="Agno logo" width="20" height="20"> Agno for multi-agent systems
